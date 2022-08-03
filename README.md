@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/mjlrih6j723k08my?svg=true)](https://ci.appveyor.com/project/TigayMaksim/test-auto)
